@@ -26,6 +26,7 @@
 - Intellibus ESLint Config `Planned`
 - Intellibus Prettier Config `Planned`
 - Intellibus Commit Message Config `Planned`
+- Intellibus Release Pipeline Config `Planned`
 
 ## Install 🛠
 
