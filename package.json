@@ -1,7 +1,7 @@
 {
   "type": "module",
   "name": "flightchecks",
-  "version": "1.0.262",
+  "version": "1.0.263",
   "description": "Intellibus Defaults For Linting, Formatting, And Committing",
   "author": "Intellibus Labs <labs@intellibus.com> (https://intellibus.dev/)",
   "license": "MIT",
